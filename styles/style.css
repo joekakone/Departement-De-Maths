@@ -1,0 +1,107 @@
+header
+{
+	border: 1px blue solid;
+	background-color: 
+
+	height: 80px;
+}
+
+header div
+{
+	border: 1px green solid;
+
+	width: 20%;
+	height: 50px;
+
+	position: absolute;    
+	right: 20px;    
+	top: 20px;
+}
+
+header li
+{
+	display: inline-block;
+}
+
+footer
+{
+	text-align: center;
+	border: 1px blue solid; 
+	height: 60px;
+}
+footer li
+{
+	display: inline-block; 
+} 
+
+nav
+{
+	border: 1px green solid;
+
+
+	width: 10%;
+
+	float: left;
+}
+
+section
+{
+	border-right: 1px blue solid;
+
+	margin-left: 10%;
+	height: 500px;
+}
+
+
+section article
+{
+	width: 75%;
+	height: 500px;
+
+	text-align: justify;
+
+	border-right: 1px black solid;
+	border-left: 1px black solid;
+	border-bottom: 1px red dashed;
+
+	float: left;
+	overflow: auto;
+}
+
+
+section aside
+{
+	border: 1px red solid;
+
+	height: 300px;
+
+	overflow: auto;
+
+	margin-left: 75.7%;
+	margin-right: 0.5%;
+}
+
+section aside h2
+{
+	text-align: center;
+	padding-right: 5px;
+}
+
+section aside p
+{
+	text-align: justify;
+
+}
+	
+article h1
+{
+	font-size: 40px;
+}
+article p
+{
+	font-size: 14px;
+	padding: 12px;   
+	margin: 50px
+}
+
+
